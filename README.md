@@ -1,6 +1,6 @@
 
 <h1>Hi, I’m Oskar or @Stisset <h1/>
-<h3>I'm on the road to change my career from carpentry to web development.<br/>I'm a newbie to coding and right now im learning HTML, CSS and JS.<h3/>
+<h3>I'm on the road to change my career from carpentry to web development.<br/>I'm a newbie to coding and right now im learning Javascript.<h3/>
 
 
 <!---
